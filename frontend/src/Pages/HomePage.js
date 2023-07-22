@@ -32,7 +32,7 @@ const HomePage = () => {
         width="100%"
       >
         <Text textAlign={"center"} fontSize={"30px"}>
-          Talk-A-Tive
+          Prajal's Chat app
         </Text>
       </Box>
 
